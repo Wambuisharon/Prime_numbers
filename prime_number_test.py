@@ -1,5 +1,5 @@
 import unittest
-from generate_prime_numbers import generate_prime
+from generate_prime_numbers import generate_primes
 
 class test_prime_numbers(unittest.TestCase):
     def test_invalid_input(self):
